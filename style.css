@@ -1,0 +1,61 @@
+.three.wide.column{
+  background-color: #1e262c;
+}
+.ui.image{
+}
+.input{
+  margin-top: 20px;
+  margin-left: 5%;
+  width: 90%;
+}
+.ui.borderless.vertical.menu{
+  background-color: #1e262c;
+}
+.ui.dropdown.item{
+  color: #C3C6CE;
+  width: 125%;
+}
+.menu{
+  width: 250px;
+}
+.text{
+  margin-left: 20px;
+}
+.dropdown:hover .menu {
+  display: block;
+}
+.dropdown.item:hover, .ui.menu .link.item:hover, .ui.menu a.item:hover {
+  cursor: pointer;
+  background: rgba(0,0,0,.03);
+  color: white!important;
+}
+
+.ui.reg.button{
+  margin-top: 10px;
+  margin-left: 15px;
+  width: 80%;
+  color: white;
+  background-color: #1e262c;
+  border-color: white;
+  border: solid;
+  border-width: 1px;
+}
+.ui.signin.button{
+  margin-top: 200px;
+  margin-left: 15px;
+  width: 80%;
+  color: white;
+  background-color: #F56C2D;
+}
+a:hover {
+  color: white!important;
+  text-decoration: none;
+}
+.language.big.icon{
+  margin-left: 30px;
+}
+.circle.outline.icon{
+  font-size: 10px;
+  color: #C3C6CE;
+  margin-left: 5px;
+}
