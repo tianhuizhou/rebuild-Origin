@@ -1,8 +1,6 @@
 .three.wide.column{
   background-color: #1e262c;
 }
-.ui.image{
-}
 .input{
   margin-top: 20px;
   margin-left: 5%;
@@ -18,8 +16,9 @@
 .menu{
   width: 250px;
 }
-.text{
+.textt{
   margin-left: 20px;
+  font-size: 14px;
 
 }
 .dropdown:hover .menu {
